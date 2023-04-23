@@ -1,0 +1,15 @@
+/Users/Sanjana/Projects/pone/pone/bin/Debug/net6.0/pone
+/Users/Sanjana/Projects/pone/pone/bin/Debug/net6.0/pone.deps.json
+/Users/Sanjana/Projects/pone/pone/bin/Debug/net6.0/pone.runtimeconfig.json
+/Users/Sanjana/Projects/pone/pone/bin/Debug/net6.0/pone.dll
+/Users/Sanjana/Projects/pone/pone/bin/Debug/net6.0/pone.pdb
+/Users/Sanjana/Projects/pone/pone/obj/Debug/net6.0/pone.csproj.AssemblyReference.cache
+/Users/Sanjana/Projects/pone/pone/obj/Debug/net6.0/pone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sanjana/Projects/pone/pone/obj/Debug/net6.0/pone.AssemblyInfoInputs.cache
+/Users/Sanjana/Projects/pone/pone/obj/Debug/net6.0/pone.AssemblyInfo.cs
+/Users/Sanjana/Projects/pone/pone/obj/Debug/net6.0/pone.csproj.CoreCompileInputs.cache
+/Users/Sanjana/Projects/pone/pone/obj/Debug/net6.0/pone.dll
+/Users/Sanjana/Projects/pone/pone/obj/Debug/net6.0/refint/pone.dll
+/Users/Sanjana/Projects/pone/pone/obj/Debug/net6.0/pone.pdb
+/Users/Sanjana/Projects/pone/pone/obj/Debug/net6.0/pone.genruntimeconfig.cache
+/Users/Sanjana/Projects/pone/pone/obj/Debug/net6.0/ref/pone.dll
